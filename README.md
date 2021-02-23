@@ -4,8 +4,6 @@ A base app with ReactJS the deploy to the Netlify
 
 Deploy to Netlify: [https://reactjs-base-app.netlify.app/](https://reactjs-base-app.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dd1c0e8f-a670-4c5d-8d1d-f93c287f3bbb/deploy-status)](https://parcel-react-redux-firebase-app.netlify.app/)
-
 ## Developers
 
 - Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
